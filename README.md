@@ -7,7 +7,7 @@
 - 🤖 Passionate about **Machine Learning, Deep Learning, NLP, and Data Engineering**.  
 - 📚 Constantly learning and building real-world projects.  
 - 🎯 My goal is to become a skilled **AI Engineer / Data Scientist**.  
-- 📩 Contact me at: **maithanhphuc2004@gmail.com**
+- 📩 Contact me at: **maithanhphuc1999@gmail.com**
 
 ---
 
