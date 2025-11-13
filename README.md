@@ -43,9 +43,6 @@
   <!-- Scikit-learn -->
   <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width="40" height="40"/>
 
-  <!-- Matplotlib -->
-  <img src="https://matplotlib.org/stable/_static/images/logo2.svg" width="40" height="40"/>
-
   <!-- TensorFlow -->
   <img src="https://img.icons8.com/color/48/tensorflow.png" width="40" height="40"/>
 
