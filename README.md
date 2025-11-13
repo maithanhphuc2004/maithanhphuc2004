@@ -68,29 +68,31 @@
 
 ## 📌 Pinned Projects
 
-<p align="left">
-
-  <a href="https://github.com/maithanhphuc2004/Artist-Coappearance-Prediction">
+<!-- 1. Artist Co-appearance Prediction -->
+<a href="https://github.com/maithanhphuc2004/Artist-Coappearance-Prediction">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=maithanhphuc2004&repo=Artist-Coappearance-Prediction&theme=tokyonight" />
-  </a>
+</a>
 
-  <a href="https://github.com/maithanhphuc2004/Clustering-of-artists-participating-in-game-shows">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=maithanhphuc2004&repo=Vietnamese-News-TopicModeling&theme=tokyonight" />
-  </a>
+<!-- 2. Clustering of Artists Participating in Game Shows -->
+<a href="https://github.com/maithanhphuc2004/Clustering-of-artists-participating-in-game-shows">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=maithanhphuc2004&repo=Clustering-of-artists-participating-in-game-shows&theme=tokyonight" />
+</a>
 
-  <a href="https://github.com/maithanhphuc2004/Vietnamese-News-Cluster">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=maithanhphuc2004&repo=Vietnamese-News-Classification&theme=tokyonight" />
-  </a>
+<!-- 3. Vietnamese News Cluster -->
+<a href="https://github.com/maithanhphuc2004/Vietnamese-News-Cluster">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=maithanhphuc2004&repo=Vietnamese-News-Cluster&theme=tokyonight" />
+</a>
 
-  <a href="https://github.com/maithanhphuc2004/Vietnamese-News-Topic-Intelligence">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=maithanhphuc2004&repo=GoogleClassroom-TAM-Extended&theme=tokyonight" />
-  </a>
+<!-- 4. Vietnamese News Topic Intelligence -->
+<a href="https://github.com/maithanhphuc2004/Vietnamese-News-Topic-Intelligence">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=maithanhphuc2004&repo=Vietnamese-News-Topic-Intelligence&theme=tokyonight" />
+</a>
 
-  <a href="https://github.com/maithanhphuc2004/Vietnamese-News-Topic-Modeling">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=maithanhphuc2004&repo=Shopee-Review-Sentiment-BERT&theme=tokyonight" />
-  </a>
+<!-- 5. Vietnamese News Topic Modeling -->
+<a href="https://github.com/maithanhphuc2004/Vietnamese-News-Topic-Modeling">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=maithanhphuc2004&repo=Vietnamese-News-Topic-Modeling&theme=tokyonight" />
+</a>
 
-</p>
 
 
 
