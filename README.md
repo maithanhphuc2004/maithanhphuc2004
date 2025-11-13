@@ -74,24 +74,20 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=maithanhphuc2004&repo=Artist-Coappearance-Prediction&theme=tokyonight" />
   </a>
 
-  <a href="https://github.com/maithanhphuc2004/Vietnamese-News-TopicModeling">
+  <a href="https://github.com/maithanhphuc2004/Clustering-of-artists-participating-in-game-shows">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=maithanhphuc2004&repo=Vietnamese-News-TopicModeling&theme=tokyonight" />
   </a>
 
-  <a href="https://github.com/maithanhphuc2004/Vietnamese-News-Classification">
+  <a href="https://github.com/maithanhphuc2004/Vietnamese-News-Cluster">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=maithanhphuc2004&repo=Vietnamese-News-Classification&theme=tokyonight" />
   </a>
 
-  <a href="https://github.com/maithanhphuc2004/GoogleClassroom-TAM-Extended">
+  <a href="https://github.com/maithanhphuc2004/Vietnamese-News-Topic-Intelligence">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=maithanhphuc2004&repo=GoogleClassroom-TAM-Extended&theme=tokyonight" />
   </a>
 
-  <a href="https://github.com/maithanhphuc2004/Shopee-Review-Sentiment-BERT">
+  <a href="https://github.com/maithanhphuc2004/Vietnamese-News-Topic-Modeling">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=maithanhphuc2004&repo=Shopee-Review-Sentiment-BERT&theme=tokyonight" />
-  </a>
-
-  <a href="https://github.com/maithanhphuc2004/Face-Age-Gender-Emotion-Recognition">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=maithanhphuc2004&repo=Face-Age-Gender-Emotion-Recognition&theme=tokyonight" />
   </a>
 
 </p>
@@ -113,22 +109,3 @@
 ![Git](https://img.shields.io/badge/Git-Version%20Control-f14e32?style=for-the-badge&logo=git)
 
 ---
-
-## 📈 GitHub Stats  
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maithanhphuc2004&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-## 🚀 Contributions Graph  
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maithanhphuc2004&theme=react-dark"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=maithanhphuc2004&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
