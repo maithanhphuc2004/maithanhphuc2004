@@ -22,23 +22,44 @@
 
 ---
 
-## 🛠 Languages and Tools  
+## Languages and Tools:
+
 <p align="left">
-  <img src="https://img.icons8.com/color/48/python.png" width="40"/>
-  <img src="https://img.icons8.com/ios-filled/50/r-project.png" width="40"/>
-  <img src="https://img.icons8.com/color/48/tensorflow.png" width="40"/>
-  <img src="https://img.icons8.com/color/48/pytorch.png" width="40"/>
-  <img src="https://img.icons8.com/color/48/git.png" width="40"/>
-  <img src="https://img.icons8.com/color/48/docker.png" width="40"/>
-  <img src="https://img.icons8.com/color/48/linux.png" width="40"/>
-  <img src="https://img.icons8.com/color/48/google-cloud.png" width="40"/>
+  <!-- Python -->
+  <img src="https://img.icons8.com/color/48/python.png" width="40" height="40"/>
+
+  <!-- R -->
+  <img src="https://img.icons8.com/ios-filled/50/276DC3/r-project.png" width="40" height="40"/>
+
+  <!-- HuggingFace -->
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40" height="40"/>
+
+  <!-- NumPy -->
+  <img src="https://numpy.org/images/logo.svg" width="40" height="40"/>
+
+  <!-- Pandas -->
+  <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" width="40" height="40"/>
+
+  <!-- Scikit-learn -->
+  <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width="40" height="40"/>
+
+  <!-- Matplotlib -->
+  <img src="https://matplotlib.org/stable/_static/images/logo2.svg" width="40" height="40"/>
+
+  <!-- TensorFlow -->
+  <img src="https://img.icons8.com/color/48/tensorflow.png" width="40" height="40"/>
+
+  <!-- Flask -->
+  <img src="https://img.icons8.com/ios-filled/50/ffffff/flask.png" width="40" height="40"/>
+
+  <!-- GitHub -->
+  <img src="https://img.icons8.com/ios-glyphs/60/ffffff/github.png" width="40" height="40"/>
 </p>
 
 ---
 
 ## 📈 GitHub Stats  
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=maithanhphuc2004&show_icons=true&theme=tokyonight"/>
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maithanhphuc2004&layout=compact&theme=tokyonight"/>
 </p>
 
