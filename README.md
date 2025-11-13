@@ -1,12 +1,14 @@
-<h1 align="center">Hi 👋, I'm Mai Thanh Phúc</h1>
+<h1 align="center">👋 Hello there, I'm Mai Thanh Phúc</h1>
 
 ---
 
-## 👤 About me  
-- 🎓 I’m a Data Science student at **HUTECH University**.  
-- 🤖 Passionate about **Machine Learning, Deep Learning, NLP, and Data Engineering**.  
-- 📚 Constantly learning and building real-world projects.  
-- 🎯 My goal is to become a skilled **AI Engineer / Data Scientist**.  
+## 🧑‍💻 About Me  
+- 🎓 Final-year **Data Science** student with a strong passion for applied AI.  
+- 🚀 Interested in **Machine Learning, Deep Learning, NLP, and MLOps**.  
+- 🧠 I enjoy solving real-world problems using data-driven approaches.  
+- 🏗 Actively building projects in **AI, automation, and data engineering pipelines**.  
+- 🎯 Ambition: Become a well-rounded **AI Engineer & ML Researcher**.  
+- 🌱 Currently learning: advanced NLP models, vector databases, and scalable ML systems.
 - 📩 Contact me at: **maithanhphuc1999@gmail.com**
 
 ---
