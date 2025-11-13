@@ -4,7 +4,7 @@
 
 ## 🧑‍💻 About Me  
 - 🎓 Final-year **Data Science** student with a strong passion for applied AI.  
-- 🚀 Interested in **Machine Learning, Deep Learning, NLP **.  
+- 🚀 Interested in **Machine Learning, Deep Learning, NLP**.  
 - 🧠 I enjoy solving real-world problems using data-driven approaches.  
 - 🏗 Actively building projects in **AI, automation, and data engineering pipelines**.  
 - 🎯 Ambition: Become a well-rounded **AI Engineer & ML Researcher**.  
