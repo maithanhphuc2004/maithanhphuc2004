@@ -15,12 +15,17 @@
 
 ## 🌐 Connect with me  
 <p align="left">
-  <a href="[https://www.facebook.com/](https://www.facebook.com/phuc.2004nee/)" target="_blank">
+  <!-- Facebook -->
+  <a href="https://www.facebook.com/phuc.2004nee/" target="_blank">
     <img src="https://img.icons8.com/color/48/facebook.png" width="40"/>
-  <a href="[https://www.instagram.com/](https://www.instagram.com/mt.phuc04/)" target="_blank">
+  </a>
+
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/mt.phuc04/" target="_blank">
     <img src="https://img.icons8.com/color/48/instagram-new.png" width="40"/>
   </a>
 </p>
+
 
 ---
 
