@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello there, I'm Mai Thanh Phúc</h1>
+<h1 align="center">👋 Hello there, I'm Mai Thanh Phuc</h1>
 
 ---
 
